@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\myusu\source\repos\WEB_API\WEB_API\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-07-17T16:43:56.9854414Z||;True|2024-07-17T19:41:21.9282328+03:00||;True|2024-07-17T19:38:56.1291512+03:00||;True|2024-07-17T19:36:12.3849727+03:00||;True|2024-07-17T19:32:53.4742825+03:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
